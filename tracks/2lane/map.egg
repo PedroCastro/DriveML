@@ -1,0 +1,1702 @@
+<CoordinateSystem> { Z-Up }
+
+<Polygon> {
+  <VertexRef> { 0 1 2 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 0 2 3 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 0 3 4 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 0 4 5 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 0 5 6 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 7 8 9 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 7 9 10 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 7 10 11 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 11 12 13 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 11 13 14 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 36 37 38 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 36 38 39 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 36 39 40 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 36 40 41 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 36 41 42 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 36 42 43 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 36 43 44 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 36 44 45 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 36 45 46 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 36 46 47 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 47 48 49 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 47 49 50 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 50 51 52 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 50 52 53 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 53 54 55 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 53 55 56 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 53 56 57 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 53 57 58 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 58 59 60 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 58 60 61 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 61 62 63 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 61 63 64 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 64 65 66 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 72 73 74 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 72 74 75 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 72 75 0 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 72 0 6 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 72 6 7 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 35 36 47 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 71 72 7 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 71 7 11 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 34 35 47 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 70 71 11 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 33 34 47 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 69 70 11 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 32 33 47 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 32 47 50 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 68 69 11 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 68 11 14 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 31 32 50 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 67 68 14 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 67 14 15 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 67 15 16 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 30 31 50 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 66 67 16 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 29 30 50 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 29 50 53 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 64 66 16 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 64 16 17 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 64 17 18 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 28 29 53 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 61 64 18 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 61 18 19 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 61 19 20 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 61 20 21 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 27 28 53 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 58 61 21 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 58 21 22 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 58 22 23 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 58 23 24 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 58 24 25 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 26 27 53 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 53 58 25 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 53 25 26 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 76 77 78 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 76 78 79 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 76 79 80 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 76 80 81 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 76 81 82 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 83 84 85 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 83 85 86 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 83 86 87 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 87 88 89 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 87 89 90 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 112 113 114 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 112 114 115 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 112 115 116 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 112 116 117 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 112 117 118 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 112 118 119 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 112 119 120 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 112 120 121 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 112 121 122 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 112 122 123 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 123 124 125 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 123 125 126 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 126 127 128 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 126 128 129 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 129 130 131 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 129 131 132 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 129 132 133 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 129 133 134 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 134 135 136 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 134 136 137 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 137 138 139 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 137 139 140 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 140 141 142 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 148 149 150 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 148 150 151 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 148 151 76 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 148 76 82 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 148 82 83 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 111 112 123 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 147 148 83 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 147 83 87 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 110 111 123 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 146 147 87 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 109 110 123 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 145 146 87 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 108 109 123 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 108 123 126 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 144 145 87 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 144 87 90 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 107 108 126 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 143 144 90 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 143 90 91 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 143 91 92 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 106 107 126 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 142 143 92 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 105 106 126 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 105 126 129 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 140 142 92 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 140 92 93 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 140 93 94 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 104 105 129 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 137 140 94 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 137 94 95 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 137 95 96 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 137 96 97 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 103 104 129 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 134 137 97 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 134 97 98 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 134 98 99 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 134 99 100 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 134 100 101 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 102 103 129 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 129 134 101 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 129 101 102 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 152 153 154 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 152 154 155 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 152 155 156 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 152 156 157 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 152 157 158 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 152 158 159 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 152 159 160 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 160 161 162 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 160 162 163 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 160 163 164 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 160 164 165 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 160 165 166 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 160 166 167 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 160 167 168 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 183 184 185 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 183 185 186 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 183 186 187 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 183 187 188 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 183 188 189 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 189 190 191 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 189 191 192 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 192 193 194 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 192 194 195 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 192 195 196 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 196 197 198 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 196 198 199 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 196 199 200 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 200 201 202 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 200 202 203 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 200 203 204 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 200 204 205 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 200 205 206 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 200 206 207 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 210 211 212 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 213 152 160 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 182 183 189 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 212 213 160 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 181 182 189 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 210 212 160 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 180 181 189 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 180 189 192 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 209 210 160 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 179 180 192 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 208 209 160 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 208 160 168 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 178 179 192 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 207 208 168 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 177 178 192 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 177 192 196 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 200 207 168 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 200 168 169 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 200 169 170 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 200 170 171 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 200 171 172 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 176 177 196 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 196 200 172 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 196 172 173 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 196 173 174 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 196 174 175 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 196 175 176 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 214 215 216 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 214 216 217 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 214 217 218 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 214 218 219 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 214 219 220 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 214 220 221 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 214 221 222 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 222 223 224 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 222 224 225 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 222 225 226 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 222 226 227 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 222 227 228 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 222 228 229 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 222 229 230 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 245 246 247 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 245 247 248 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 245 248 249 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 245 249 250 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 245 250 251 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 251 252 253 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 251 253 254 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 254 255 256 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 254 256 257 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 254 257 258 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 258 259 260 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 258 260 261 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 258 261 262 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 262 263 264 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 262 264 265 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 262 265 266 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 262 266 267 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 262 267 268 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 262 268 269 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 272 273 274 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 275 214 222 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 244 245 251 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 274 275 222 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 243 244 251 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 272 274 222 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 242 243 251 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 242 251 254 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 271 272 222 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 241 242 254 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 270 271 222 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 270 222 230 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 240 241 254 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 269 270 230 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 239 240 254 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 262 269 230 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 262 230 231 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 262 231 232 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 262 232 233 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 262 233 234 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 238 239 254 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 238 254 258 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 258 262 234 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 258 234 235 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 258 235 236 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 258 236 237 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 258 237 238 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 276 277 282 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 282 277 278 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 282 278 281 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 281 278 279 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 281 279 280 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 283 284 288 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 288 284 285 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 288 285 287 <Ref> { road_network_vpool } }
+}
+<Polygon> {
+  <VertexRef> { 287 285 286 <Ref> { road_network_vpool } }
+}
+<VertexPool> road_network_vpool {
+  <Vertex> 0 {
+    34.3424495422256 71.6376987637871 0
+  }
+  <Vertex> 1 {
+    26.2343328115275 69.5919585425033 0
+  }
+  <Vertex> 2 {
+    26.9780414574967 66.6443328115275 0
+  }
+  <Vertex> 3 {
+    28.4518543229846 67.0161871345121 0
+  }
+  <Vertex> 4 {
+    34.8175504577742 68.6223012362129 0
+  }
+  <Vertex> 5 {
+    42.4630155866014 69.1230117988061 0
+  }
+  <Vertex> 6 {
+    49.5956209188649 68.1178750040155 0
+  }
+  <Vertex> 7 {
+    60.1494620347459 65.2825147042266 0
+  }
+  <Vertex> 8 {
+    71.1137745481885 61.0785296694732 0
+  }
+  <Vertex> 9 {
+    82.9344204723546 57.6215483142925 0
+  }
+  <Vertex> 10 {
+    90.326050170578 56.5333361642763 0
+  }
+  <Vertex> 11 {
+    102.249465716422 56.175429179624 0
+  }
+  <Vertex> 12 {
+    117.576750586321 59.2734973980079 0
+  }
+  <Vertex> 13 {
+    129.687879905191 63.7537969264411 0
+  }
+  <Vertex> 14 {
+    137.293310421818 68.7210293234789 0
+  }
+  <Vertex> 15 {
+    143.040195858022 73.6354688762537 0
+  }
+  <Vertex> 16 {
+    148.65776560523 77.5424983544162 0
+  }
+  <Vertex> 17 {
+    155.18775230595 80.6772777897691 0
+  }
+  <Vertex> 18 {
+    162.408008890551 82.5848753022133 0
+  }
+  <Vertex> 19 {
+    169.271674520853 82.4069630962436 0
+  }
+  <Vertex> 20 {
+    174.673444582982 80.430930970952 0
+  }
+  <Vertex> 21 {
+    178.884241947343 77.2378207744741 0
+  }
+  <Vertex> 22 {
+    182.425287865765 73.271849345842 0
+  }
+  <Vertex> 23 {
+    185.388836530315 67.9818667133553 0
+  }
+  <Vertex> 24 {
+    188.425673054242 61.5838713182862 0
+  }
+  <Vertex> 25 {
+    191.92669793805 51.921438235007 0
+  }
+  <Vertex> 26 {
+    195.186127712584 41.1060576195075 0
+  }
+  <Vertex> 27 {
+    196.748423999544 31.595578972637 0
+  }
+  <Vertex> 28 {
+    196.643044981393 23.2993762709242 0
+  }
+  <Vertex> 29 {
+    194.823039782621 17.6790493358547 0
+  }
+  <Vertex> 30 {
+    192.866206383612 13.9186828502009 0
+  }
+  <Vertex> 31 {
+    189.206473170486 11.0939373119144 0
+  }
+  <Vertex> 32 {
+    183.805609918938 9.20969831914633 0
+  }
+  <Vertex> 33 {
+    176.47299129008 8.33516582212664 0
+  }
+  <Vertex> 34 {
+    170.095499981007 8.69959389693081 0
+  }
+  <Vertex> 35 {
+    163.857845538037 10.2226292741412 0
+  }
+  <Vertex> 36 {
+    157.558118265249 12.2897272855248 0
+  }
+  <Vertex> 37 {
+    147.503181385827 16.2857923882488 0
+  }
+  <Vertex> 38 {
+    136.534335011948 20.498392416347 0
+  }
+  <Vertex> 39 {
+    129.408287060907 22.6666383231583 0
+  }
+  <Vertex> 40 {
+    128.523361676842 19.7582870609074 0
+  }
+  <Vertex> 41 {
+    129.977537307967 19.3158243688746 0
+  }
+  <Vertex> 42 {
+    135.545664988053 17.6216075836527 0
+  }
+  <Vertex> 43 {
+    146.396818614174 13.4542076117512 0
+  }
+  <Vertex> 44 {
+    156.521881734751 9.43027271447528 0
+  }
+  <Vertex> 45 {
+    163.022154461963 7.29737072585882 0
+  }
+  <Vertex> 46 {
+    169.644500018993 5.68040610306918 0
+  }
+  <Vertex> 47 {
+    176.56700870992 5.28483417787335 0
+  }
+  <Vertex> 48 {
+    184.494390081062 6.23030168085366 0
+  }
+  <Vertex> 49 {
+    190.673526829514 8.38606268808564 0
+  }
+  <Vertex> 50 {
+    195.253793616388 11.9213171497991 0
+  }
+  <Vertex> 51 {
+    197.636960217379 16.5009506641456 0
+  }
+  <Vertex> 52 {
+    199.676955018607 22.8006237290756 0
+  }
+  <Vertex> 53 {
+    199.791576000456 31.8244210273631 0
+  }
+  <Vertex> 54 {
+    198.153872287416 41.7939423804919 0
+  }
+  <Vertex> 55 {
+    194.813302061949 52.8785617649944 0
+  }
+  <Vertex> 56 {
+    191.234326945758 62.756128681715 0
+  }
+  <Vertex> 57 {
+    188.091163469686 69.3781332866435 0
+  }
+  <Vertex> 58 {
+    184.914712134236 75.0481506541575 0
+  }
+  <Vertex> 59 {
+    180.955758052656 79.4821792255259 0
+  }
+  <Vertex> 60 {
+    176.146555417018 83.1290690290479 0
+  }
+  <Vertex> 61 {
+    169.848325479146 85.4330369037565 0
+  }
+  <Vertex> 62 {
+    162.051991109449 85.6351246977868 0
+  }
+  <Vertex> 63 {
+    154.132247694049 83.5427222102308 0
+  }
+  <Vertex> 64 {
+    147.12223439477 80.1775016455842 0
+  }
+  <Vertex> 65 {
+    141.17980414198 76.0445311237472 0
+  }
+  <Vertex> 66 {
+    135.466689578183 71.1589706765214 0
+  }
+  <Vertex> 67 {
+    128.312120094808 66.4862030735587 0
+  }
+  <Vertex> 68 {
+    116.743249413679 62.2065026019921 0
+  }
+  <Vertex> 69 {
+    101.990534283578 59.2245708203759 0
+  }
+  <Vertex> 70 {
+    90.5939498294226 59.5666638357236 0
+  }
+  <Vertex> 71 {
+    83.5855795276457 60.5984516857075 0
+  }
+  <Vertex> 72 {
+    72.0862254518111 63.961470330527 0
+  }
+  <Vertex> 73 {
+    61.0905379652545 68.1774852957733 0
+  }
+  <Vertex> 74 {
+    50.2043790811352 71.1021249959844 0
+  }
+  <Vertex> 75 {
+    42.5769844133987 72.1769882011939 0
+  }
+  <Vertex> 76 {
+    33.8415102265818 74.8176470782904 0
+  }
+  <Vertex> 77 {
+    25.4529055321572 72.6895644714452 0
+  }
+  <Vertex> 78 {
+    26.2004355285548 69.7429055321572 0
+  }
+  <Vertex> 79 {
+    27.6737649981988 70.116670530356 0
+  }
+  <Vertex> 80 {
+    34.318489773418 71.8023529217095 0
+  }
+  <Vertex> 81 {
+    42.5823228138112 72.3429775131371 0
+  }
+  <Vertex> 82 {
+    50.234797698488 71.2580696813855 0
+  }
+  <Vertex> 83 {
+    61.1497127353743 68.3224697887933 0
+  }
+  <Vertex> 84 {
+    72.1342514793248 64.118387233154 0
+  }
+  <Vertex> 85 {
+    83.6145725005182 60.7615089133528 0
+  }
+  <Vertex> 86 {
+    90.6050306881314 59.7335003563509 0
+  }
+  <Vertex> 87 {
+    101.968388992745 59.3751962656648 0
+  }
+  <Vertex> 88 {
+    116.697229963936 62.3536045506979 0
+  }
+  <Vertex> 89 {
+    128.247762695087 66.633855154972 0
+  }
+  <Vertex> 90 {
+    135.373847777899 71.2813019481101 0
+  }
+  <Vertex> 91 {
+    141.081321525914 76.1762882205728 0
+  }
+  <Vertex> 92 {
+    147.03803148272 80.3226255434481 0
+  }
+  <Vertex> 93 {
+    154.06809906723 83.6974447827794 0
+  }
+  <Vertex> 94 {
+    162.027084239801 85.8045166696212 0
+  }
+  <Vertex> 95 {
+    169.870779605395 85.5874228147371 0
+  }
+  <Vertex> 96 {
+    176.214234535375 83.2705202777193 0
+  }
+  <Vertex> 97 {
+    181.064111512787 79.5977979064757 0
+  }
+  <Vertex> 98 {
+    185.04547438231 75.1318300098738 0
+  }
+  <Vertex> 99 {
+    188.229411826176 69.4607438636574 0
+  }
+  <Vertex> 100 {
+    191.385662720601 62.8237676837927 0
+  }
+  <Vertex> 101 {
+    194.966470453846 52.9221418799832 0
+  }
+  <Vertex> 102 {
+    198.306107535231 41.8262470799968 0
+  }
+  <Vertex> 103 {
+    199.948550222211 31.8347207342014 0
+  }
+  <Vertex> 104 {
+    199.842807976828 22.7793393568418 0
+  }
+  <Vertex> 105 {
+    197.783088678566 16.438820964033 0
+  }
+  <Vertex> 106 {
+    195.386204181702 11.8195378149045 0
+  }
+  <Vertex> 107 {
+    190.746800284178 8.25356462308225 0
+  }
+  <Vertex> 108 {
+    184.523651935837 6.0693431150414 0
+  }
+  <Vertex> 109 {
+    176.573156895885 5.11528371024718 0
+  }
+  <Vertex> 110 {
+    169.61645027836 5.51940774612004 0
+  }
+  <Vertex> 111 {
+    162.97886610295 7.14236024581765 0
+  }
+  <Vertex> 112 {
+    156.458634747755 9.28950591867638 0
+  }
+  <Vertex> 113 {
+    146.343296380386 13.3057437137988 0
+  }
+  <Vertex> 114 {
+    135.493922092497 17.4785799783718 0
+  }
+  <Vertex> 115 {
+    128.476229623544 19.6055394018115 0
+  }
+  <Vertex> 116 {
+    127.594460598189 16.6962296235437 0
+  }
+  <Vertex> 117 {
+    129.049115487322 16.2553451108661 0
+  }
+  <Vertex> 118 {
+    134.506077907503 14.6014200216282 0
+  }
+  <Vertex> 119 {
+    145.236703619611 10.474256286202 0
+  }
+  <Vertex> 120 {
+    155.421365252245 6.43049408132358 0
+  }
+  <Vertex> 121 {
+    162.14113389705 4.21763975418236 0
+  }
+  <Vertex> 122 {
+    169.16354972164 2.50059225387996 0
+  }
+  <Vertex> 123 {
+    176.666843104115 2.06471628975282 0
+  }
+  <Vertex> 124 {
+    185.216348064163 3.09065688495859 0
+  }
+  <Vertex> 125 {
+    192.213199715822 5.54643537691776 0
+  }
+  <Vertex> 126 {
+    197.773795818298 9.82046218509562 0
+  }
+  <Vertex> 127 {
+    200.596911321434 15.2611790359667 0
+  }
+  <Vertex> 128 {
+    202.877192023172 22.2806606431583 0
+  }
+  <Vertex> 129 {
+    202.991449777789 32.0652792657982 0
+  }
+  <Vertex> 130 {
+    201.273892464769 42.5137529200032 0
+  }
+  <Vertex> 131 {
+    197.853529546153 53.8778581200197 0
+  }
+  <Vertex> 132 {
+    194.1943372794 63.9962323162058 0
+  }
+  <Vertex> 133 {
+    190.930588173823 70.859256136343 0
+  }
+  <Vertex> 134 {
+    187.534525617689 76.9081699901266 0
+  }
+  <Vertex> 135 {
+    183.135888487213 81.8422020935245 0
+  }
+  <Vertex> 136 {
+    177.685765464625 85.9694797222807 0
+  }
+  <Vertex> 137 {
+    170.449220394605 88.612577185263 0
+  }
+  <Vertex> 138 {
+    161.672915760199 88.8554833303789 0
+  }
+  <Vertex> 139 {
+    153.011900932771 86.562555217221 0
+  }
+  <Vertex> 140 {
+    145.501968517278 82.9573744565513 0
+  }
+  <Vertex> 141 {
+    139.218678474089 78.5837117794289 0
+  }
+  <Vertex> 142 {
+    133.546152222101 73.7186980518899 0
+  }
+  <Vertex> 143 {
+    126.872237304913 69.366144845028 0
+  }
+  <Vertex> 144 {
+    115.862770036064 65.2863954493021 0
+  }
+  <Vertex> 145 {
+    101.711611007255 62.4248037343351 0
+  }
+  <Vertex> 146 {
+    90.8749693118693 62.7664996436491 0
+  }
+  <Vertex> 147 {
+    84.2654274994809 63.7384910866474 0
+  }
+  <Vertex> 148 {
+    73.1057485206754 67.0016127668458 0
+  }
+  <Vertex> 149 {
+    62.090287264626 71.2175302112066 0
+  }
+  <Vertex> 150 {
+    50.8452023015118 74.2419303186145 0
+  }
+  <Vertex> 151 {
+    42.6976771861888 75.3970224868628 0
+  }
+  <Vertex> 152 {
+    121.827096241069 20.9389768486524 0
+  }
+  <Vertex> 153 {
+    131.147987046576 19.1051675047117 0
+  }
+  <Vertex> 154 {
+    131.734832495288 22.0879870465757 0
+  }
+  <Vertex> 155 {
+    130.243422724356 22.381409770932 0
+  }
+  <Vertex> 156 {
+    122.112903758931 23.9810231513476 0
+  }
+  <Vertex> 157 {
+    114.658375493741 23.9295416025549 0
+  }
+  <Vertex> 158 {
+    107.604398657819 23.3121921233709 0
+  }
+  <Vertex> 159 {
+    100.662628453733 22.4907994008095 0
+  }
+  <Vertex> 160 {
+    93.5300111351351 21.7543339633871 0
+  }
+  <Vertex> 161 {
+    85.4704328830878 20.1161260878142 0
+  }
+  <Vertex> 162 {
+    76.5412180373353 18.0904238485407 0
+  }
+  <Vertex> 163 {
+    69.2662215171344 15.8886466590238 0
+  }
+  <Vertex> 164 {
+    62.2287497465503 13.18037783744 0
+  }
+  <Vertex> 165 {
+    56.2450081085563 10.9227390892152 0
+  }
+  <Vertex> 166 {
+    50.9631453378242 8.94328392654915 0
+  }
+  <Vertex> 167 {
+    45.0089649436787 6.96187606963462 0
+  }
+  <Vertex> 168 {
+    39.156763672436 5.00455199580671 0
+  }
+  <Vertex> 169 {
+    34.4860560681874 3.92445086232422 0
+  }
+  <Vertex> 170 {
+    29.2053663487483 3.13571396433878 0
+  }
+  <Vertex> 171 {
+    23.1807592443017 3.44027546093008 0
+  }
+  <Vertex> 172 {
+    18.3145190141012 4.69699381164205 0
+  }
+  <Vertex> 173 {
+    14.0504103750828 6.67810623242497 0
+  }
+  <Vertex> 174 {
+    10.4804290362319 9.24258895128941 0
+  }
+  <Vertex> 175 {
+    7.97248789619289 12.5243557962475 0
+  }
+  <Vertex> 176 {
+    4.75796451168793 17.7022407688932 0
+  }
+  <Vertex> 177 {
+    3.05965864439988 22.4969053997451 0
+  }
+  <Vertex> 178 {
+    2.11287784203921 30.5397604985867 0
+  }
+  <Vertex> 179 {
+    3.26155505641219 38.4847778979998 0
+  }
+  <Vertex> 180 {
+    5.29306853634564 44.0070610195091 0
+  }
+  <Vertex> 181 {
+    9.21470968454687 50.891719924129 0
+  }
+  <Vertex> 182 {
+    14.4292325065304 57.1724091223545 0
+  }
+  <Vertex> 183 {
+    20.0718489136366 62.051726392198 0
+  }
+  <Vertex> 184 {
+    29.7427663934538 67.7881314539293 0
+  }
+  <Vertex> 185 {
+    28.1918685460707 70.4027663934538 0
+  }
+  <Vertex> 186 {
+    26.8845510763085 69.6273174697623 0
+  }
+  <Vertex> 187 {
+    18.2881510863636 64.5282736078021 0
+  }
+  <Vertex> 188 {
+    12.2507674934696 59.3075908776455 0
+  }
+  <Vertex> 189 {
+    6.70529031545312 52.628280075871 0
+  }
+  <Vertex> 190 {
+    2.52693146365435 45.2929389804909 0
+  }
+  <Vertex> 191 {
+    0.298444943587815 39.2352221020002 0
+  }
+  <Vertex> 192 {
+    -0.952877842039211 30.5802395014133 0
+  }
+  <Vertex> 193 {
+    0.0803413556001245 21.8030946002549 0
+  }
+  <Vertex> 194 {
+    2.00203548831207 16.3777592311068 0
+  }
+  <Vertex> 195 {
+    5.46751210380712 10.7956442037525 0
+  }
+  <Vertex> 196 {
+    8.3395709637681 7.03741104871059 0
+  }
+  <Vertex> 197 {
+    12.5095896249172 4.04189376757504 0
+  }
+  <Vertex> 198 {
+    17.2854809858988 1.82300618835795 0
+  }
+  <Vertex> 199 {
+    22.7192407556983 0.419724539069923 0
+  }
+  <Vertex> 200 {
+    29.3546336512517 0.0842860356612187 0
+  }
+  <Vertex> 201 {
+    35.0539439318126 0.935549137675775 0
+  }
+  <Vertex> 202 {
+    39.983236327564 2.07544800419329 0
+  }
+  <Vertex> 203 {
+    45.9710350563229 4.07812393036602 0
+  }
+  <Vertex> 204 {
+    51.9768546621757 6.07671607345081 0
+  }
+  <Vertex> 205 {
+    57.3149918914476 8.07726091078641 0
+  }
+  <Vertex> 206 {
+    63.3112502534503 10.3396221625602 0
+  }
+  <Vertex> 207 {
+    70.2537784828656 13.0113533409761 0
+  }
+  <Vertex> 208 {
+    77.3187819626649 15.1495761514593 0
+  }
+  <Vertex> 209 {
+    86.1095671169125 17.1438739121859 0
+  }
+  <Vertex> 210 {
+    93.9899888648648 18.7456660366129 0
+  }
+  <Vertex> 211 {
+    100.997371546267 19.4692005991905 0
+  }
+  <Vertex> 212 {
+    107.915601342182 20.2878078766292 0
+  }
+  <Vertex> 213 {
+    114.801624506259 20.8904583974451 0
+  }
+  <Vertex> 214 {
+    121.527163837226 17.7389053037881 0
+  }
+  <Vertex> 215 {
+    130.52732359844 15.964722374358 0
+  }
+  <Vertex> 216 {
+    131.115277625642 18.9473235984404 0
+  }
+  <Vertex> 217 {
+    129.623977013601 19.2413006120412 0
+  }
+  <Vertex> 218 {
+    121.812836162774 20.7810946962119 0
+  }
+  <Vertex> 219 {
+    114.818685475194 20.7295154138551 0
+  }
+  <Vertex> 220 {
+    107.924545425353 20.1322257472756 0
+  }
+  <Vertex> 221 {
+    101.022934046548 19.3108438415252 0
+  }
+  <Vertex> 222 {
+    94.01075891106 18.5944921370365 0
+  }
+  <Vertex> 223 {
+    86.1494179661323 16.9959183026754 0
+  }
+  <Vertex> 224 {
+    77.3615967390594 14.9904407520017 0
+  }
+  <Vertex> 225 {
+    70.3076180452423 12.8691723390409 0
+  }
+  <Vertex> 226 {
+    63.3676001962572 10.1999347048158 0
+  }
+  <Vertex> 227 {
+    57.3640065062648 7.92236505204002 0
+  }
+  <Vertex> 228 {
+    52.02272617463 5.92311487204262 0
+  }
+  <Vertex> 229 {
+    46.029686181632 3.92211646906488 0
+  }
+  <Vertex> 230 {
+    40.0182651029565 1.92490091332072 0
+  }
+  <Vertex> 231 {
+    35.0843274418569 0.784049715003222 0
+  }
+  <Vertex> 232 {
+    29.3643915562143 -0.0840687162072814 0
+  }
+  <Vertex> 233 {
+    22.7022036080001 0.260032813399193 0
+  }
+  <Vertex> 234 {
+    17.2337775379802 1.67706843850001 0
+  }
+  <Vertex> 235 {
+    12.4293338932887 3.89888625047195 0
+  }
+  <Vertex> 236 {
+    8.22065520387357 6.92241595195865 0
+  }
+  <Vertex> 237 {
+    5.332663363225 10.7040860494854 0
+  }
+  <Vertex> 238 {
+    1.85759986088962 16.3027994699147 0
+  }
+  <Vertex> 239 {
+    -0.0801006268203092 21.7567174280055 0
+  }
+  <Vertex> 240 {
+    -1.10733017746723 30.5793712321599 0
+  }
+  <Vertex> 241 {
+    0.14195824054934 39.266730692829 0
+  }
+  <Vertex> 242 {
+    2.37329826305572 45.3670036298958 0
+  }
+  <Vertex> 243 {
+    6.574117656966 52.7111613231754 0
+  }
+  <Vertex> 244 {
+    12.1295227722336 59.4126115496346 0
+  }
+  <Vertex> 245 {
+    18.1920326202589 64.6519371531197 0
+  }
+  <Vertex> 246 {
+    28.1031106034807 70.5394811844373 0
+  }
+  <Vertex> 247 {
+    26.5505188155627 73.1531106034807 0
+  }
+  <Vertex> 248 {
+    25.243704106041 72.3768147095217 0
+  }
+  <Vertex> 249 {
+    16.4079673797411 67.1280628468803 0
+  }
+  <Vertex> 250 {
+    9.95047722776639 61.5473884503654 0
+  }
+  <Vertex> 251 {
+    4.065882343034 54.4488386768246 0
+  }
+  <Vertex> 252 {
+    -0.393298263055703 46.6529963701042 0
+  }
+  <Vertex> 253 {
+    -2.82195824054934 40.013269307171 0
+  }
+  <Vertex> 254 {
+    -4.17266982253277 30.62062876784 0
+  }
+  <Vertex> 255 {
+    -3.05989937317969 21.0632825719945 0
+  }
+  <Vertex> 256 {
+    -0.897599860889622 14.9772005300853 0
+  }
+  <Vertex> 257 {
+    2.827336636775 8.97591395051455 0
+  }
+  <Vertex> 258 {
+    6.07934479612642 4.71758404804135 0
+  }
+  <Vertex> 259 {
+    10.8906661067113 1.26111374952806 0
+  }
+  <Vertex> 260 {
+    16.2062224620198 -1.19706843850001 0
+  }
+  <Vertex> 261 {
+    22.2377963919999 -2.76003281339919 0
+  }
+  <Vertex> 262 {
+    29.5156084437857 -3.13593128379272 0
+  }
+  <Vertex> 263 {
+    35.6556725581432 -2.20404971500322 0
+  }
+  <Vertex> 264 {
+    40.8417348970436 -1.00490091332071 0
+  }
+  <Vertex> 265 {
+    46.9903138183644 1.03788353093407 0
+  }
+  <Vertex> 266 {
+    53.0372738253702 3.05688512795741 0
+  }
+  <Vertex> 267 {
+    58.4359934937355 5.07763494795995 0
+  }
+  <Vertex> 268 {
+    64.4523998037442 7.36006529518463 0
+  }
+  <Vertex> 269 {
+    71.2923819547579 9.99082766095919 0
+  }
+  <Vertex> 270 {
+    78.1384032609405 12.0495592479983 0
+  }
+  <Vertex> 271 {
+    86.7905820338674 14.0240816973245 0
+  }
+  <Vertex> 272 {
+    94.4692410889401 15.5855078629635 0
+  }
+  <Vertex> 273 {
+    101.357065953451 16.2891561584746 0
+  }
+  <Vertex> 274 {
+    108.235454574648 17.1077742527245 0
+  }
+  <Vertex> 275 {
+    114.961314524805 17.6904845861449 0
+  }
+  <Vertex> 276 {
+    26.91 73.15 0
+  }
+  <Vertex> 277 {
+    26.53 73.05 0
+  }
+  <Vertex> 278 {
+    26.25 72.97 0
+  }
+  <Vertex> 279 {
+    26.02 72.89 0
+  }
+  <Vertex> 280 {
+    25.8 72.79 0
+  }
+  <Vertex> 281 {
+    25.21 72.45 0
+  }
+  <Vertex> 282 {
+    28.47 66.94 0
+  }
+  <Vertex> 283 {
+    130.89 22.3 0
+  }
+  <Vertex> 284 {
+    130.66 22.37 0
+  }
+  <Vertex> 285 {
+    130.58 22.39 0
+  }
+  <Vertex> 286 {
+    130.49 22.41 0
+  }
+  <Vertex> 287 {
+    130.26 22.46 0
+  }
+  <Vertex> 288 {
+    129.02 16.18 0
+  }
+}
