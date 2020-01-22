@@ -4,7 +4,9 @@ We  present  a  safe  and  efficient  autonomous  driving  algorithm. Built usin
 Winner of the [2019 DriveML Huawei Autonomous Vehicles Challenge](https://www.drive-ml.com/).
 
 1-Page Report available [here](deliverables/1-Page_Report_Drive++.pdf).
+
 Poster available [here](deliverables/Poster-Drive++_A_Safe_Autonomous_Driving_Algorithm.pdf).
+
 Public Leaderboard available on  [Codalab](https://competitions.codalab.org/competitions/21639).
 
 Authors:
