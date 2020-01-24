@@ -9,8 +9,6 @@ import numpy as np
 import math
 import time
 
-# import matplotlib.pyplot as plt
-
 from ray.rllib.models import ModelCatalog
 from ray.rllib.models.tf.tf_modelv2 import TFModelV2
 from ray.rllib.models.tf.fcnet_v2 import FullyConnectedNetwork
@@ -205,7 +203,6 @@ def observation(env_obs, update=True):
     """
     Transform the environment's observation into something more suited for your model
     """
-    # global LAST_ego_lane_dist, lane_idx
     ego = env_obs.ego_vehicle_state
     waypoint_paths = env_obs.waypoint_paths
     wps = [path[0] for path in waypoint_paths]
@@ -228,7 +225,6 @@ def observation(env_obs, update=True):
         NUM_LANES = len(waypoint_paths)
 
     ego_lane_index = closest_wp.lane_index
-    # angle_error_ahead = closest_wp.relative_heading(ego.heading)
 
     ttc_by_p, lane_dist_by_p, headings_of_cars_all_lanes, speed_of_closest = ttc_by_path(ego, waypoint_paths, env_obs.neighborhood_vehicle_states, closest_wp)
     ego_ttc, ego_lane_dist = ego_ttc_calc(ego, ego_lane_index, ttc_by_p, lane_dist_by_p)
@@ -327,10 +323,8 @@ def reward(env_obs, env_reward):
                            ])
 
     if flip_penalty != 0:
-        # print(total_penalty-total_reward)
         return float((-total_reward + total_penalty) / 200.0)
     else:
-        # print(total_penalty+total_reward)
         return  float((total_reward + total_penalty) / 200.0)
 
 
@@ -381,7 +375,6 @@ class EvaluationModel(TFModelV2):
             .get_preprocessor_for_space(OBSERVATION_SPACE)
 
         self._sess = tf.Session(graph=tf.Graph())
-        # self._sess.__enter__()
 
         model_path = os.path.join(
             os.path.dirname(os.path.realpath(__file__)),
